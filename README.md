@@ -63,7 +63,7 @@ Setting up a bug bounty environment manually takes hours. **This script does it 
 
 ```bash
 # Download script
-curl -fsSL https://raw.githubusercontent.com/yourusername/BugBounty-Automation-Setup/main/scripts/setup.sh -o setup.sh
+curl -fsSL https://raw.githubusercontent.com/mrflippermen/BugBounty-Automation-Setup/main/scripts/setup.sh -o setup.sh
 
 # Make executable
 chmod +x setup.sh
@@ -181,7 +181,7 @@ Configurar manualmente un entorno de bug bounty toma horas. **Este script lo hac
 
 ```bash
 # Descargar script
-curl -fsSL https://raw.githubusercontent.com/yourusername/BugBounty-Automation-Setup/main/scripts/setup.sh -o setup.sh
+curl -fsSL https://raw.githubusercontent.com/mrflippermen/BugBounty-Automation-Setup/main/scripts/setup.sh -o setup.sh
 
 # Hacer ejecutable
 chmod +x setup.sh
